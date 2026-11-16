@@ -6,8 +6,7 @@ A simple electronic piano built with an **Arduino UNO** and simulated in **Tinke
 
 [Watch the demo video](demo.mp4)
 
-> Tinkercad simulation link: *add your share link here*
-
+> Tinkercad simulation link: https://drive.google.com/file/d/1IFe9E-KWbKZjBa4iJdme-PSWMZgJABx2/view?usp=sharing
 ## Objective
 
 Design and program a basic musical instrument that:
